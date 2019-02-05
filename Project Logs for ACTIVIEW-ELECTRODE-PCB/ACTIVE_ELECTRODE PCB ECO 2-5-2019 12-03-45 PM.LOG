@@ -1,0 +1,158 @@
+Added Component: Designator=C1(0402[IMP])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CLASS"; Value = "DISCRETE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CURRENT"; Value = "CIMAX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST"; Value = "FLAT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KNEE"; Value = "CBMAX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MAX_TEMP"; Value = "CTMAX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PSpiceTemplate"; Value = "C^@REFDES %1 %2 ?TOLERANCE|C^@REFDES| @VALUE ?IC/IC=@IC/ TC=@TC1,@TC2 ?TOLERANCE|\n.model C^@REFDES CAP C=1 DEV=@TOLERANCE%|"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SLOPE"; Value = "CSMAX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1018-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TOLERANCE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VOLTAGE"; Value = "CMAX"; VariantName = "[No Variations]"
+Added Component: Designator=C2(0402[IMP])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CLASS"; Value = "DISCRETE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CURRENT"; Value = "CIMAX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST"; Value = "FLAT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KNEE"; Value = "CBMAX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MAX_TEMP"; Value = "CTMAX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PSpiceTemplate"; Value = "C^@REFDES %1 %2 ?TOLERANCE|C^@REFDES| @VALUE ?IC/IC=@IC/ TC=@TC1,@TC2 ?TOLERANCE|\n.model C^@REFDES CAP C=1 DEV=@TOLERANCE%|"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SLOPE"; Value = "CSMAX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1018-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TOLERANCE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VOLTAGE"; Value = "CMAX"; VariantName = "[No Variations]"
+Added Component: Designator=C3(0402[IMP])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CLASS"; Value = "DISCRETE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CURRENT"; Value = "CIMAX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST"; Value = "FLAT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KNEE"; Value = "CBMAX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MAX_TEMP"; Value = "CTMAX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PSpiceTemplate"; Value = "C^@REFDES %1 %2 ?TOLERANCE|C^@REFDES| @VALUE ?IC/IC=@IC/ TC=@TC1,@TC2 ?TOLERANCE|\n.model C^@REFDES CAP C=1 DEV=@TOLERANCE%|"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SLOPE"; Value = "CSMAX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1018-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TOLERANCE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VOLTAGE"; Value = "CMAX"; VariantName = "[No Variations]"
+Added Component: Designator=C4(0402[IMP])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CLASS"; Value = "DISCRETE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CURRENT"; Value = "CIMAX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST"; Value = "FLAT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KNEE"; Value = "CBMAX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MAX_TEMP"; Value = "CTMAX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PSpiceTemplate"; Value = "C^@REFDES %1 %2 ?TOLERANCE|C^@REFDES| @VALUE ?IC/IC=@IC/ TC=@TC1,@TC2 ?TOLERANCE|\n.model C^@REFDES CAP C=1 DEV=@TOLERANCE%|"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SLOPE"; Value = "CSMAX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-1078-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TOLERANCE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VOLTAGE"; Value = "CMAX"; VariantName = "[No Variations]"
+Added Component: Designator=E1(Electrode_Socket)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H1(Electrode Header)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(0402[IMP])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MCS0402-1.00K-CFCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0402[IMP])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MCS0402-1.00K-CFCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "110k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0402[IMP])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MCS0402-1.00K-CFCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0402[IMP])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MCS0402-1.00K-CFCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2M"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0402[IMP])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MCS0402-1.00K-CFCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2M"; VariantName = "[No Variations]"
+Added Component: Designator=U1(MSOP-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "AD8237ARMZ-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U2(MSOP-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "AD8607ARMZ-R2CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND1 Pin=C2-1
+Added Pin To Net: NetName=GND1 Pin=C4-2
+Added Pin To Net: NetName=GND1 Pin=H1-3
+Added Pin To Net: NetName=GND1 Pin=U1-1
+Added Pin To Net: NetName=GND1 Pin=U1-4
+Added Pin To Net: NetName=GND1 Pin=U2-4
+Added Pin To Net: NetName=GND1 Pin=U2-8
+Added Net: Name=GND1
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R3-2
+Added Pin To Net: NetName=NetC1_1 Pin=U1-7
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R2-2
+Added Pin To Net: NetName=NetC1_2 Pin=R5-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-8
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=H1-2
+Added Pin To Net: NetName=NetC2_2 Pin=R2-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R5-1
+Added Pin To Net: NetName=NetC3_1 Pin=U2-7
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R3-1
+Added Pin To Net: NetName=NetC3_2 Pin=U1-6
+Added Pin To Net: NetName=NetC3_2 Pin=U2-6
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=R4-1
+Added Pin To Net: NetName=NetC4_1 Pin=U2-3
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetE1_1 Pin=E1-1
+Added Pin To Net: NetName=NetE1_1 Pin=E1-1
+Added Pin To Net: NetName=NetE1_1 Pin=E1-1
+Added Pin To Net: NetName=NetE1_1 Pin=E1-1
+Added Pin To Net: NetName=NetE1_1 Pin=R4-2
+Added Pin To Net: NetName=NetE1_1 Pin=U1-2
+Added Net: Name=NetE1_1
+Added Pin To Net: NetName=NetU1_3 Pin=U1-3
+Added Pin To Net: NetName=NetU1_3 Pin=U2-1
+Added Pin To Net: NetName=NetU1_3 Pin=U2-2
+Added Net: Name=NetU1_3
+Added Pin To Net: NetName=VCC1 Pin=H1-1
+Added Pin To Net: NetName=VCC1 Pin=U1-5
+Added Pin To Net: NetName=VCC1 Pin=U2-5
+Added Net: Name=VCC1
+Added Class: Name=Active_Electrode
+Added Room: Name=Active_Electrode
