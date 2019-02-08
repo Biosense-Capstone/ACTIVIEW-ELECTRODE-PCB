@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for ACTIVIEW-ELECTRODE-PCB
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -107,10 +107,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=ACTIVIEW-ELECTRODE-BOM
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for ACTIVIEW-ELECTRODE-PCB\ACTIVIEW-ELECTRODE-BOM
 DItemRevisionGUID=
 
@@ -161,7 +157,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for ACTIVIEW-ELECTRODE-PCB
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
