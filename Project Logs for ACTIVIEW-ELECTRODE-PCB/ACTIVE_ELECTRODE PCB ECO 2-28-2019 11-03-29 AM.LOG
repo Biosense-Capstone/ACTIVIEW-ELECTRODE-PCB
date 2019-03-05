@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=H1-2
+Added Component: Designator=U3(MSOP-8)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC2_2 Pin=U3-3
+Added Pin To Net: NetName=GND1 Pin=U3-4
+Added Pin To Net: NetName=VCC1 Pin=U3-8
+Added Pin To Net: NetName=NetH1_2 Pin=H1-2
+Added Pin To Net: NetName=NetH1_2 Pin=U3-1
+Added Pin To Net: NetName=NetH1_2 Pin=U3-2
+Added Net: Name=NetH1_2
+Added Member To Class: ClassName=Active_Electrode Member=Component U3 AD8602

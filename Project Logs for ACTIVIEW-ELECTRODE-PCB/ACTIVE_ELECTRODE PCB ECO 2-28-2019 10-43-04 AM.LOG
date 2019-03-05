@@ -1,0 +1,185 @@
+Removed Pin From Net: NetName=VCC1 Pin=U2-5
+Removed Pin From Net: NetName=NetC3_2 Pin=U2-6
+Removed Pin From Net: NetName=NetC3_1 Pin=U2-7
+Removed Pin From Net: NetName=GND1 Pin=U2-8
+Change Component Comment : Designator=C4 Old Comment=50nF New Comment=40nF
+Change component parameters: Designator = "C1"; Footprint = "0402[IMP]"; UniqueID = "\WFNQDKDJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CLASS"; Value = "DISCRETE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CURRENT"; Value = "CIMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST"; Value = "FLAT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "KNEE"; Value = "CBMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MAX_TEMP"; Value = "CTMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PSpiceTemplate"; Value = "C^@REFDES %1 %2 ?TOLERANCE|C^@REFDES| @VALUE ?IC/IC=@IC/ TC=@TC1,@TC2 ?TOLERANCE|\n.model C^@REFDES CAP C=1 DEV=@TOLERANCE%|"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SLOPE"; Value = "CSMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VOLTAGE"; Value = "CMAX"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "0402[IMP]"; UniqueID = "\RWBLGEKR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "0402[IMP]"; UniqueID = "\RGHHGOQT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "110k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "0402[IMP]"; UniqueID = "\QBWANUOM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "0402[IMP]"; UniqueID = "\SYUINHVL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "0402[IMP]"; UniqueID = "\VAURFNVX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2"; Footprint = "MSOP-8"; UniqueID = "\NEUDAJCJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "AD8607ARMZ-R2CT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "0402[IMP]"; UniqueID = "\FTGKRMEA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CLASS"; Value = "DISCRETE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CURRENT"; Value = "CIMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST"; Value = "FLAT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "KNEE"; Value = "CBMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MAX_TEMP"; Value = "CTMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PSpiceTemplate"; Value = "C^@REFDES %1 %2 ?TOLERANCE|C^@REFDES| @VALUE ?IC/IC=@IC/ TC=@TC1,@TC2 ?TOLERANCE|\n.model C^@REFDES CAP C=1 DEV=@TOLERANCE%|"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SLOPE"; Value = "CSMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VOLTAGE"; Value = "CMAX"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "0402[IMP]"; UniqueID = "\BVDNQPRA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CLASS"; Value = "DISCRETE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CURRENT"; Value = "CIMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST"; Value = "FLAT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "KNEE"; Value = "CBMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MAX_TEMP"; Value = "CTMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PSpiceTemplate"; Value = "C^@REFDES %1 %2 ?TOLERANCE|C^@REFDES| @VALUE ?IC/IC=@IC/ TC=@TC1,@TC2 ?TOLERANCE|\n.model C^@REFDES CAP C=1 DEV=@TOLERANCE%|"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SLOPE"; Value = "CSMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.3uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VOLTAGE"; Value = "CMAX"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "0402[IMP]"; UniqueID = "\IPDPYFOQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CLASS"; Value = "DISCRETE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CURRENT"; Value = "CIMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST"; Value = "FLAT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "KNEE"; Value = "CBMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MAX_TEMP"; Value = "CTMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PSpiceTemplate"; Value = "C^@REFDES %1 %2 ?TOLERANCE|C^@REFDES| @VALUE ?IC/IC=@IC/ TC=@TC1,@TC2 ?TOLERANCE|\n.model C^@REFDES CAP C=1 DEV=@TOLERANCE%|"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SLOPE"; Value = "CSMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ".1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VOLTAGE"; Value = "CMAX"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "0402[IMP]"; UniqueID = "\CHHSBTFG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CLASS"; Value = "DISCRETE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CURRENT"; Value = "CIMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST"; Value = "FLAT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "KNEE"; Value = "CBMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MAX_TEMP"; Value = "CTMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PSpiceTemplate"; Value = "C^@REFDES %1 %2 ?TOLERANCE|C^@REFDES| @VALUE ?IC/IC=@IC/ TC=@TC1,@TC2 ?TOLERANCE|\n.model C^@REFDES CAP C=1 DEV=@TOLERANCE%|"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SLOPE"; Value = "CSMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VOLTAGE"; Value = "CMAX"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "0402[IMP]"; UniqueID = "\HPVGGBNI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CLASS"; Value = "DISCRETE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CURRENT"; Value = "CIMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST"; Value = "FLAT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "KNEE"; Value = "CBMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MAX_TEMP"; Value = "CTMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PSpiceTemplate"; Value = "C^@REFDES %1 %2 ?TOLERANCE|C^@REFDES| @VALUE ?IC/IC=@IC/ TC=@TC1,@TC2 ?TOLERANCE|\n.model C^@REFDES CAP C=1 DEV=@TOLERANCE%|"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SLOPE"; Value = "CSMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ".1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VOLTAGE"; Value = "CMAX"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8"; Footprint = "0402[IMP]"; UniqueID = "\OKSUEQGX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CLASS"; Value = "DISCRETE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CURRENT"; Value = "CIMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST"; Value = "FLAT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "KNEE"; Value = "CBMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MAX_TEMP"; Value = "CTMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PSpiceTemplate"; Value = "C^@REFDES %1 %2 ?TOLERANCE|C^@REFDES| @VALUE ?IC/IC=@IC/ TC=@TC1,@TC2 ?TOLERANCE|\n.model C^@REFDES CAP C=1 DEV=@TOLERANCE%|"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SLOPE"; Value = "CSMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VOLTAGE"; Value = "CMAX"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "0402[IMP]"; UniqueID = "\MDABFWLH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CLASS"; Value = "DISCRETE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CURRENT"; Value = "CIMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST"; Value = "FLAT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "KNEE"; Value = "CBMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MAX_TEMP"; Value = "CTMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PSpiceTemplate"; Value = "C^@REFDES %1 %2 ?TOLERANCE|C^@REFDES| @VALUE ?IC/IC=@IC/ TC=@TC1,@TC2 ?TOLERANCE|\n.model C^@REFDES CAP C=1 DEV=@TOLERANCE%|"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SLOPE"; Value = "CSMAX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TOLERANCE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "40nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VOLTAGE"; Value = "CMAX"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND1 Pin=U2-5
+Added Pin To Net: NetName=NetC3_1 Pin=U2-6
+Added Pin To Net: NetName=NetC3_2 Pin=U2-7
+Added Pin To Net: NetName=VCC1 Pin=U2-8
+Added Member To Class: ClassName=Active_Electrode Member=Component C1 47pF
+Added Member To Class: ClassName=Active_Electrode Member=Component C2 22pF
+Added Member To Class: ClassName=Active_Electrode Member=Component C3 3.3uF
+Added Member To Class: ClassName=Active_Electrode Member=Component C4 40nF
+Added Member To Class: ClassName=Active_Electrode Member=Component C5 .1uF
+Added Member To Class: ClassName=Active_Electrode Member=Component C6 10uF
+Added Member To Class: ClassName=Active_Electrode Member=Component C7 .1uF
+Added Member To Class: ClassName=Active_Electrode Member=Component C8 10uF
+Added Member To Class: ClassName=Active_Electrode Member=Component E1 Electrode_Snap
+Added Member To Class: ClassName=Active_Electrode Member=Component H1 Electrode Header
+Added Member To Class: ClassName=Active_Electrode Member=Component R1 1M
+Added Member To Class: ClassName=Active_Electrode Member=Component R2 110k
+Added Member To Class: ClassName=Active_Electrode Member=Component R3 1K
+Added Member To Class: ClassName=Active_Electrode Member=Component R4 2M
+Added Member To Class: ClassName=Active_Electrode Member=Component R5 2M
+Added Member To Class: ClassName=Active_Electrode Member=Component U1 AD8237
+Added Member To Class: ClassName=Active_Electrode Member=Component U2 AD8607
+Added Room: Name=Active_Electrode
